@@ -1,0 +1,28 @@
+.header-title {
+    background-color: rgb(36, 31, 31);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h3 {
+    color: rgb(70, 155, 224);
+}
+
+span {
+    color: white;
+}
+
+.nav-bar {
+    width: 40%;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 30px;
+}
+
+.nav-link {
+    margin: 5px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}

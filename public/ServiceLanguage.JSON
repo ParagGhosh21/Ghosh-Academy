@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "math",
+        "students": 400,
+        "ratings": 5,
+        "teacher": "Parag",
+        "fee": 500,
+        "img": "https://miro.medium.com/max/1400/1*L76A5gL6176UbMgn7q4Ybg.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Physics",
+        "students": 200,
+        "ratings": 5,
+        "teacher": "Kaushik",
+        "fee": 300,
+        "img": "https://5.imimg.com/data5/PZ/GP/EJ/SELLER-68307306/physics-tuition-500x500.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Bengali",
+        "students": 40,
+        "ratings": 4,
+        "teacher": "turin",
+        "fee": 450,
+        "img": "https://img.thedailystar.net/sites/default/files/beta2/uploads/2013/03/Page-2011.jpg"
+    },
+    {
+        "id": 4,
+        "name": "chemistry",
+        "students": 400,
+        "ratings": 3.7,
+        "teacher": "Rimon",
+        "fee": 350,
+        "img": "https://images.theconversation.com/files/121885/original/image-20160510-20731-1pf8nwv.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip"
+    },
+    {
+        "id": 5,
+        "name": "Biology",
+        "students": 40,
+        "ratings": 4.8,
+        "teacher": "Sara",
+        "fee": 500,
+        "img": "http://images.shiksha.com/mediadata/images/articles/1538985491phpKctLgx.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Fundamental of accounting",
+        "students": 40,
+        "ratings": 5,
+        "teacher": "Mark",
+        "fee": 550,
+        "img": "https://www.vidyalai.com/blog/content/images/2020/10/acc-1.jpg"
+    },
+    {
+        "id": 7,
+        "name": "fundamental of economics",
+        "students": 40,
+        "ratings": 4.2,
+        "teacher": "DAne",
+        "fee": 400,
+        "img": "https://www.investopedia.com/thmb/OVTqjYDkFALwRnM1jZUdoZoKa2k=/980x503/filters:fill(auto,1)/Economics-ee66b8ad3f654cb2814dadc1eda2654d.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Digital Marketing",
+        "students": 40,
+        "ratings": 3.9,
+        "teacher": "Dipro",
+        "fee": 400,
+        "img": "https://neilpatel.com/wp-content/uploads/2021/07/digital-marketing_featured-image.png"
+    },
+    {
+        "id": 9,
+        "name": "Computer Science",
+        "students": 40,
+        "ratings": 4.9,
+        "teacher": "Beth",
+        "fee": 600,
+        "img": "https://prod-discovery.edx-cdn.org/media/programs/card_images/e0de6882-c5d1-43f3-99e0-17e386489dca-9c3bda2df48f.jpg"
+    }
+]

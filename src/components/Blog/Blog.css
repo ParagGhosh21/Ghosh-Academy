@@ -1,0 +1,15 @@
+img {
+
+    width: 450px;
+    height: 250px;
+    margin-left: 80px;
+    padding: 5px;
+
+
+}
+
+.blogs {
+
+    display: flex;
+    justify-content: space-between;
+}
